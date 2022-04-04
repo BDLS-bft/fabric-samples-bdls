@@ -28,7 +28,7 @@ chmod +x ./scripts/bootstrap.sh
 # Download binaries and docker images
 ./scripts/bootstrap.sh [version] [ca version] [thirdparty_version]
 ```
-
+Test
 ### Continuous Integration
 
 Please have a look at [Continuous Integration Process](docs/fabric-samples-ci.md)
