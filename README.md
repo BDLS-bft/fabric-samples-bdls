@@ -2,7 +2,7 @@
 
 ## Hyperledger Fabric Samples
 
-### Hyperledger Fabric uing BDLS protocol
+### Hyperledger Fabric using BDLS protocol
 
 Please visit the [installation instructions](http://hyperledger-fabric.readthedocs.io/en/latest/install.html)
 to ensure you have the correct prerequisites installed. Please use the
